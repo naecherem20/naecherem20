@@ -9,7 +9,7 @@ i am a passionate software developer,I'm a curious mind blending science and tec
 - 🌱 I’m currently learning Django, Fastapi, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer(Intern or Junior level).
-- 📫 You can contact me by emailing chicherem20@gmail.com.
+- 📫 You can check my <a href="https://drive.google.com/file/d/1DsP1yz0ilP2DTFtuvNVeewzEvqz2t2v8/view?usp=sharing"> resume <a/> and contact me by emailing chicherem20@gmail.com.
 
 ---
 
